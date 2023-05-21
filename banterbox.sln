@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "banterbox", "banterbox\banterbox.vbproj", "{83E1C1C4-0096-4F6C-9DBD-86C441AC8425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E1C1C4-0096-4F6C-9DBD-86C441AC8425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E1C1C4-0096-4F6C-9DBD-86C441AC8425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E1C1C4-0096-4F6C-9DBD-86C441AC8425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E1C1C4-0096-4F6C-9DBD-86C441AC8425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AAF4E06-6035-4412-A24B-06D57DE6BA14}
+	EndGlobalSection
+EndGlobal
