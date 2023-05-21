@@ -1,1 +1,1 @@
-# Student-Info-System
+# Chat-app
